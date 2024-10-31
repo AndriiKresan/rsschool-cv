@@ -38,3 +38,11 @@ But, I have a few little projects to show:
 - [Mortgage calculator app](https://andriikresan.github.io/mortgage-repayment-calculator/)
 - [Nft preview](https://andriikresan.github.io/nft-preview-card-component-main/)
 - [Age calculator](https://andriikresan.github.io/age-calculator-app-main/)
+## Education
+- _2017 - 2021_: BATK, Computer engineering
+- _2019 - 2023_: NULP, Automation and computer-integrated technologies
+- _2023 - now_: BATI, Electrical engineering and electromechanics
+## Languages
+- _Ukrainian:_ native
+- _English:_ intermediate
+
