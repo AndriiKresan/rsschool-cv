@@ -13,3 +13,28 @@ I have some experience with Html, Css and Javascript, I'have created a few pet p
 - CSS
 - JavaScript
 - Git
+## Code Example
+[CodeWars isAnagram](https://www.codewars.com/kata/529eef7a9194e0cbc1000255/javascript)
+```
+function isAnagram(test, original) {
+  if (test.length !== original.length) return false;
+
+  test = test.toLowerCase().split("");
+  original = original.toLowerCase().split("");
+
+  for (let i = 0; i < test.length; i++) {
+    if (original.includes(test[i]))
+      original.splice(original.indexOf(test[i]), 1);
+    else return false;
+  }
+  return true;
+};
+```
+## Work Experience
+Nothing here, for now :)
+
+But, I have a few little projects to show:
+- [Tic Tac Toe](https://andriikresan.github.io/Tic-Tac-Toe/)
+- [Mortgage calculator app](https://andriikresan.github.io/mortgage-repayment-calculator/)
+- [Nft preview](https://andriikresan.github.io/nft-preview-card-component-main/)
+- [Age calculator](https://andriikresan.github.io/age-calculator-app-main/)
